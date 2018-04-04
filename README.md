@@ -1,5 +1,6 @@
 # Breton-logical-connective
-You will find several lists of Breton logical connective
+You will find several lists of Breton logical connectives.
+
 This list has been made with the help of the following articles:
 https://fr.wikipedia.org/wiki/Connecteur_logique
 
