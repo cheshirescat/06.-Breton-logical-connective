@@ -14,7 +14,7 @@ http://www.bonjourdefrance.com/exercices/contenu/20/grammaire/587.html
 
 And these dictionnaries:
 
-http://www.devri.bzh/recherche/?q=
+http://www.devri.bzh/
 
 https://fr.glosbe.com/fr/br/
 
